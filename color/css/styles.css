@@ -1,0 +1,35 @@
+#zero {
+			border: 1px solid grey;
+			background-color: #0BDAC0;
+			padding: 10px;
+			color: indigo;
+}
+
+#one {
+			border: 1px solid #665544;
+			background-color: #71CBE4;
+			padding: 10px;
+			color: white;
+
+}
+
+#two {
+			border: 1px solid #665544;
+			background-color: #005CCD;
+			padding: 10px;
+			color: purple;
+}
+
+#three {
+			border: 1px solid #665544;
+			background-color: #0B24E4;
+			padding: 10px;
+			color: gray;
+}
+
+#four {
+			border: 1px solid #665544;
+			background-color: #7664B4;
+			padding: 10px;
+			color: maroon;
+}
