@@ -1,0 +1,113 @@
+/*Headings*/
+
+h1 {
+		width:500px;
+		margin-top:10px;
+		margin-left:auto;
+		margin-bottom:10px;
+		margin-right:auto;
+		text-align:center;
+		
+}
+
+h1, h2, h3 {
+				color:#FFD400;
+				font-family: Arial, Verdana, sans-serif;
+				font-size:24px;
+				
+}
+
+
+
+/*Body*/
+
+body {
+		background-color: #720099;
+
+}
+
+/*links*/
+
+a:link {
+		color:#FFD400;
+		text-decoration:none;
+
+}
+
+a:visited {
+			color: #FFFEFE;
+
+}
+
+a:hover {
+			background-color: hsla(50, 51%, 53%, 0.94);
+			color:#720099;
+			text-decoration:underline;
+			
+}
+a:active {
+			color: #0922CC;
+			
+	
+}
+
+/*paragraphs*/
+			
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rokkitt'), url(http://fonts.gstatic.com/s/rokkitt/v8/RcB7dRNAX_8JE8zinU47YALUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+	
+p {
+			color: #FFFEFE;
+			font-family:Rokkitt,Georgia,serif;
+			opacity:0.8;
+			text-shadow:  -1px  -2px  5px  #FFD400;
+}
+
+/*tables*/ 
+#container{
+			display:inline;
+			padding:10px;
+			height:4px;
+			width:10px;
+			text-align:center;
+			margin:105px;
+			
+}
+
+ul{
+			
+			
+			display:inline;
+			border:2px solid;
+			background-color:#8800CC;
+			
+	
+}
+
+ol{
+			border:2.5px solid;
+			background-color:#FFD400;
+			width:500px;
+			padding-right:10px;
+			border-radius:10px;
+			height:auto;
+			box-shadow:  -10px  5px  15px  7px  #FFFEFE;
+			list-style-type:upper-roman;
+			
+}
+/*figure*/
+
+#fig {
+		border:2px solid;
+		width:150px;
+		height:150px;
+}
+figcaption {
+				color:#FFFEFE;
+				
+}
+
