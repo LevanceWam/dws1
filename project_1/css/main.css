@@ -68,7 +68,7 @@ p {
 }
 
 /*tables*/ 
-#container{
+#container li{
 			display:inline;
 			padding:10px;
 			height:4px;

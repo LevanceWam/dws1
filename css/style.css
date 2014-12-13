@@ -18,6 +18,11 @@ h1, h2 {
 /*Paragraphs*/
 p {
 		color: #665544;
+		float:left;
+		margin-right: 10px;
+		padding:5px;
+		background-color:#efefef;
+		width:200px;
 }	
 
 /*Strong element*/
