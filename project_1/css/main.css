@@ -24,7 +24,7 @@ h1, h2, h3 {
 body {
     	width:96%;
 		background-color: #720099;
-     	background-image:url("../images/dead-revolutionaries.gif");
+     	background-image:url("../Images/dead-revolutionaries.gif");
      	background-attachment:fixed;
   		
   
@@ -77,7 +77,7 @@ p {
 				border: 5px solid #000;
 				margin: 20px;
 				padding:20px;
-				background-image:url("../images/basketball.png");
+				background-image:url("../Images/basketball.png");
 				background-position:center;
 				
 				background:linear-gradient(to left,yellow,purple);
@@ -153,7 +153,7 @@ figcaption {
 		margin:20%;
 		background-color:purple;
 		float:left;
-		background-image:url("../images/basketball.png");
+		background-image:url("../Images/basketball.png");
 		background-position:center;
 		
 		
